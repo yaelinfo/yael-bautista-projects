@@ -7,9 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from Yopmail_Get_OTP import getOTP
 import time
 
-service = Service(executable_path="chromedriver.exe")
-driver = webdriver.Chrome(service=service)
-
+driver = webdriver.Chrome()
 driver.get("https://elektra.mx")
 
 close_button_xpath = "/html/body/div[2]/div/div[1]/div/div[4]/div/div[2]/div[1]/img"
