@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yael Bautista</h1>
-<h3 align="center">SDET with over 3 years of hands-on experience testing web applications, mobile apps, websites, and video games</h3>
+<h1 align="center">Hi 👋, welcome to my project's repository</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaelinfo&label=Profile%20views&color=0e75b6&style=flat" alt="yaelinfo" /> </p>
 
